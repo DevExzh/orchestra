@@ -1,5 +1,5 @@
 # Orchestra
-<img alt="Logo" height="64" src="G:\Projects\orchestra\resources\orchestra.svg" width="64"/>
+<img alt="Logo" height="64" src="https://raw.githubusercontent.com/DevExzh/orchestra/master/resources/orchestra.svg" width="64"/>
 
 **A Simple Cross-platform tool for dispatching scripts, managing applications. Written in Go.**
 
